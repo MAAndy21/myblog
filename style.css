@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+h1 {
+    color: deeppink;
+    text-decoration-style: dashed;
+    text-decoration-line: underline;
+    font-size: 100px;
+}
+h2 {
+    color: pink;
+    text-decoration-line: underline;
+    font-size: 50px;
+}
